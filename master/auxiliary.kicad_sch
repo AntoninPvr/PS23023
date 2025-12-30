@@ -9,6 +9,7 @@
 		(date "2025-12-29")
 		(rev "1.0.0")
 		(comment 1 "Compliant with Velleman’s layout")
+		(comment 2 "Ref: AQF7.820.7120")
 	)
 	(lib_symbols
 		(symbol "Device:C_Polarized"

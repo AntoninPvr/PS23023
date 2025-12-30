@@ -1,5 +1,7 @@
 # Master Board 0-30V 0-3A
 
+(Ref: AQF7.820.7120)
+
 **I haven't changed anything from the original design**, It's just a Kicad version of it. It's intended as a reference design to modify my power supply for my own needs.
 
 ## Schematic
@@ -15,6 +17,7 @@ Full schematic: [master.pdf](pdf/master.pdf)
 ### Auxilliary Power Supply
 
 ![Aux](img/master-auxiliary.svg)
+
 ### Tap Switching
 
 ![Tap Switching](img/master-winding_switching.svg)

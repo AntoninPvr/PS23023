@@ -9,6 +9,7 @@
 		(date "2025-12-29")
 		(rev "1.0.0")
 		(comment 1 "Compliant with Velleman’s layout")
+		(comment 2 "Ref: AQF7.820.7120")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x01"
@@ -8824,7 +8825,7 @@
 			)
 		)
 		(instances
-			(project "ps23023"
+			(project "master"
 				(path "/d9a60776-44aa-4492-ab91-964b5eb8409d"
 					(page "3")
 				)
@@ -8896,7 +8897,7 @@
 			)
 		)
 		(instances
-			(project "ps23023"
+			(project "master"
 				(path "/d9a60776-44aa-4492-ab91-964b5eb8409d"
 					(page "4")
 				)
@@ -8958,7 +8959,7 @@
 			)
 		)
 		(instances
-			(project "ps23023"
+			(project "master"
 				(path "/d9a60776-44aa-4492-ab91-964b5eb8409d"
 					(page "5")
 				)
@@ -9030,7 +9031,7 @@
 			)
 		)
 		(instances
-			(project "ps23023"
+			(project "master"
 				(path "/d9a60776-44aa-4492-ab91-964b5eb8409d"
 					(page "2")
 				)

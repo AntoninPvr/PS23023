@@ -12,5 +12,19 @@ Manufacturer's manual: [Velleman_PS23023_manual.pdf](B5lJAFJ02yPxKAnPlHxN3OI$bLy
 
 Board schematics are split into multiple projects:
 
+### Master board
+
+Ref: AQF7.820.7120
+
 Master board: [master/README.md](master/README.md)
+
+![front](master/img/pcb.jpg)
+
+### Charge pump board
+
+Ref: AQF7.820.7173
+
+Charge pump board: [charge_pump/README.md](charge_pump/README.md)
+
+![charge_pump](charge_pump/img/front.jpg)
 
