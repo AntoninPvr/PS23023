@@ -4,29 +4,27 @@
 
 ## Schematic
 
-Master schematic; the slave is identical, except the control potentiometers are different because they are routed through Serial/Parallel/Independent switches.
+Master schematic, the slave is identical, except the control potentiometers are different because they are routed through Serial/Parallel/Independent switches.
 
 ### Root
 
 Full schematic: [schematic.pdf](pdf/schematic.pdf)
 
-![Root](img/ps23023.svg)
+![Root](img/master.svg)
 
 ### Auxilliary Power Supply
 
-![Aux](img/ps23023-auxiliary.svg)
-
+![Aux](img/master-auxiliary.svg)
 ### Tap Switching
 
-![Tap Switching](img/ps23023-winding_switching.svg)
+![Tap Switching](img/master-winding_switching.svg)
 
 ### Current Loop
 
-![Current Loop](img/ps23023-current_control.svg)
-
+![Current Loop](img/master-current_control.svg)
 ### Voltage Loop
 
-![Voltage Loop](img/ps23023-voltage_control.svg)
+![Voltage Loop](img/master-voltage_control.svg)
 
 ## Transformer
 

@@ -1,6 +1,6 @@
 # PS23023 Linear Power Supply 
 
-![PS23023 Power Supply](img/ps23023.png)
+![PS23023 Power Supply](master/img/ps23023.png)
 
 I did not find any Kicad design files for the PS23023 from Velleman online, so I created my own from the manufacturer's manual. The design of this power supply seems to be fairly common, their are many clones of it available. 
 
