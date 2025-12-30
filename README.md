@@ -22,7 +22,7 @@ Full schematic: [schematic.pdf](pdf/schematic.pdf)
 
 ### Auxilliary Power Supply
 
-![Aux](img/ps23023-aux.svg)
+![Aux](img/ps23023-auxiliary.svg)
 
 ### Tap Switching
 
