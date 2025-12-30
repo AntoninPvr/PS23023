@@ -8,7 +8,7 @@ Master schematic, the slave is identical, except the control potentiometers are 
 
 ### Root
 
-Full schematic: [schematic.pdf](pdf/schematic.pdf)
+Full schematic: [master.pdf](pdf/master.pdf)
 
 ![Root](img/master.svg)
 
