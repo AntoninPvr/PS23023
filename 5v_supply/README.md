@@ -8,7 +8,7 @@
 
 This supply is based on the LM723 voltage regulator IC with a single 2n3055 ballast.
 
-It use s middle tap transformer and an auxiliary winding to power the LM723. The general design is weird, but it's can be related to my own PS23023 power supply, as the serigraphy on the PCB for wires is a bit confusing.
+It uses a middle tap transformer and an auxiliary winding to power the LM723. The general design is weird, but it's can be related to my own PS23023 power supply, as the serigraphy on the PCB for wires is a bit confusing.
 
 Full schematic: [5v_supply.pdf](pdf/5v_supply.pdf)
 
