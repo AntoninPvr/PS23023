@@ -28,3 +28,10 @@ Charge pump board: [charge_pump/README.md](charge_pump/README.md)
 
 ![charge_pump](charge_pump/img/front.jpg)
 
+### 5V 3A supply
+
+Ref: AQF7.820.775
+
+5V 3A supply: [5v_supply/README.md](5v_supply/README.md)
+
+![5v_supply](5v_supply/img/front.jpg)
